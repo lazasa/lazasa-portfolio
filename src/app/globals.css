@@ -1,5 +1,24 @@
 @import "tailwindcss";
 
+/* Tailwind v4 Custom Theme Configuration */
+@theme {
+    --color-primary: #F5F5DC;
+    --color-violet: #723185;
+    --color-secondary: #E8E5D5;
+    --color-text: #2C1810;
+    --color-sub-text: #2C1810CC;
+    --color-paragraph-text: #4A3427;
+    --color-hover: #EAE7DD;
+    --color-border: #2C181022;
+    --color-pseudos: #2C1810;
+    --color-react: #61dbfb;
+    
+    --shadow-custom: 0px 1px 8px 0px #2c181080;
+    
+    --font-family-sans: Atkinson, system-ui, sans-serif;
+    --font-family-atkinson: Atkinson, system-ui, sans-serif;
+}
+
 /* Font Face Declarations */
 @font-face {
   font-family: 'Atkinson';
