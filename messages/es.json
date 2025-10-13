@@ -4,5 +4,10 @@
     "subtitle": "Lázaro Sánchez",
     "description": "Desarrollador Full-Stack con un corazón linuxero y pasión por sistemas limpios y seguros.",
     "bio": "¡Hola! Soy Lázaro, un dev de Argentina que le encanta meterse en el backend, crear apps y hacer que todo corra rápido y seguro. Cuando no estoy programando, probablemente estoy configurando servidores, analizando paquetes de red o escribiendo sobre la tech que estoy aprendiendo."
+  },
+  "cv": {
+    "preview": "Ver CV",
+    "download": "Descargar",
+    "close": "Cerrar"
   }
 }
