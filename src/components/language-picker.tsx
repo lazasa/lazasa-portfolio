@@ -1,7 +1,6 @@
 'use client'
 
 import { useParams, usePathname } from 'next/navigation'
-import { useTranslations } from 'next-intl'
 import { routing, type Locale } from '../i18n/routing'
 import Link from 'next/link'
 
@@ -20,7 +19,7 @@ export default function LanguagePicker() {
 
   return (
     <div className="inline-flex items-center gap-2 scale-150">
-      {routing.locales.map(locale => {
+      {routing.locales.toReversed().map(locale => {
         const isActive = locale === currentLocale
 
         return (
