@@ -1,16 +1,19 @@
 import type { Metadata } from "next";
 import "./globals.css";
 
+type Props = {
+  children: React.ReactNode;
+};
+
 export const metadata: Metadata = {
-  title: "Lazasa Portfolio",
-  description: "Personal portfolio and blog",
+  title: 'Lazasa Portfolio',
+  description: 'Personal portfolio',
 };
 
 export default function RootLayout({
   children,
-}: Readonly<{
-  children: React.ReactNode;
-}>) {
+}: Props) {
+
   return (
     <html lang="en">
       <head>
