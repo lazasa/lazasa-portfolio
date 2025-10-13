@@ -1,6 +1,8 @@
 {
   "header": {
     "title": "lazasa",
-    "subtitle": "Lázaro Sánchez"
+    "subtitle": "Lázaro Sánchez",
+    "description": "Full-Stack Developer with a Linux core and a love for clean, secure systems.",
+    "bio": "Hey, I’m Lázaro, a developer from Argentina who enjoys digging into backend systems, building apps, and making things run fast and secure. When I’m not coding, I’m probably configuring servers, breaking down network packets, or writing about the tech I’m learning."
   }
 }

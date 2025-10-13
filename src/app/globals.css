@@ -4,6 +4,7 @@
 @theme {
     --color-primary: #F5F5DC;
     --color-violet: #723185;
+    --color-violet-light: #B478D3;
     --color-secondary: #E8E5D5;
     --color-text: #2C1810;
     --color-sub-text: #2C1810CC;
@@ -46,6 +47,17 @@
 body {
   background-color: #F5F5DC;
   color: #2C1810;
+}
+
+/* Custom Text Selection Styling */
+::selection {
+  background-color: #B478D3; /* Lighter violet for selection */
+  color: #ffffff;
+}
+
+::-moz-selection {
+  background-color: #B478D3; /* Lighter violet for Firefox */
+  color: #ffffff;
 }
 
 main.home {
