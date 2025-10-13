@@ -1,0 +1,68 @@
+@import "tailwindcss";
+
+/* Font Face Declarations */
+@font-face {
+  font-family: 'Atkinson';
+  src: url('/fonts/atkinson-regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Atkinson';
+  src: url('/fonts/atkinson-bold.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Root Variables and Base Styles */
+:root {
+  background-color: #F5F5DC;
+  color: #2C1810;
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #F5F5DC;
+  color: #2C1810;
+}
+
+main.home {
+  max-width: 120ch;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+img {
+  border-radius: .8rem;
+}
+
+.invert {
+  filter: invert(1);
+}
+
+/* Footer Styling */
+footer {
+  padding: 2em 1em 6em 1em;
+  background: #F5F5DC;
+  color: #2C1810;
+  text-align: center;
+}
+
+.social-links {
+  display: flex;
+  justify-content: center;
+  gap: 1em;
+  margin-top: 1em;
+}
+
+.social-links a {
+  text-decoration: none;
+  color: #2C1810;
+}
+
+.social-links a:hover {
+  color: #4A3427;
+}
