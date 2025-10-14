@@ -15,5 +15,8 @@
     "title": "Sobre mí",
     "para_one": "Me enfoco en diseñar arquitecturas escalables, optimizar el flujo de datos y asegurar que los sistemas sean confiables en entornos reales. Mi trabajo abarca frontend, backend y DevOps. Desde crear experiencias interactivas con Next.js hasta desplegar aplicaciones en contenedores usando AWS y Docker.",
     "para_two": "Actualmente curso la Tecnicatura en Redes Informáticas y finalizo un Diplomado en Administración de Servidores Linux con orientación a Ciberseguridad, combinando el desarrollo de software con una comprensión profunda de los sistemas."
+  },
+  "last_post": {
+    "title": "Lee mi último post"
   }
 }

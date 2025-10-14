@@ -6,9 +6,9 @@ export default function About() {
   const t = useTranslations('about')
 
   return (
-    <section className="max-w-4xl mx-auto px-6 py-12">
+    <section className="mx-auto">
       {/* About Title */}
-      <div className="mb-8 text-center">
+      <div className="mb-8 text-left">
         <h2 className="text-3xl text-violet font-bold mb-4">{t('title')}</h2>
       </div>
 

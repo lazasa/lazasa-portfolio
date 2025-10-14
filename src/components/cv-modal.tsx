@@ -60,9 +60,7 @@ export default function CVModal({ isOpen, onClose }: CVModalProps) {
           className="flex items-center justify-between p-4 border-b"
           style={{ borderColor: '#2C181022' }}
         >
-          <h2 className="text-xl font-semibold" style={{ color: '#2C1810' }}>
-            {t('preview')}
-          </h2>
+          <h2 className="text-xl text-violet font-bold">{t('preview')}</h2>
           <button
             onClick={onClose}
             className="cursor-pointer transition-colors p-1"
