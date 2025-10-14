@@ -3,11 +3,17 @@
     "title": "lazasa",
     "subtitle": "Lázaro Sánchez",
     "description": "Full-Stack Developer with a Linux core and a love for clean, secure systems.",
-    "bio": "Hey, I'm Lázaro, a developer from Argentina who enjoys digging into backend systems, building apps, and making things run fast and secure. When I'm not coding, I'm probably configuring servers, breaking down network packets, or writing about the tech I'm learning."
+    "bio": "Hey, I'm Lázaro, a developer from Argentina who enjoys digging into backend systems, building apps, and making things run fast and secure. When I'm not coding, I'm probably configuring servers, breaking down network packets, or writing about the tech I'm learning.",
+    "cv": "CV Preview"
   },
   "cv": {
     "preview": "CV Preview",
     "download": "Download",
     "close": "Close"
+  },
+  "about": {
+    "title": "About me",
+    "para_one": "I focus on designing scalable architectures, optimizing data flow, and ensuring systems stay reliable under real-world conditions. My work spans frontend, backend, and DevOps. From crafting interactive experiences with Next.js to deploying containerized apps on AWS and Docker.",
+    "para_two": "I’m currently pursuing an Associate Degree in Computer Networking and finishing a Diploma in Linux Server Administration with a focus on Cybersecurity, blending software development with deep system understanding."
   }
 }

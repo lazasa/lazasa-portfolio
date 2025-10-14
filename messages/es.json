@@ -3,11 +3,17 @@
     "title": "lazasa",
     "subtitle": "Lázaro Sánchez",
     "description": "Desarrollador Full-Stack con un corazón linuxero y pasión por sistemas limpios y seguros.",
-    "bio": "¡Hola! Soy Lázaro, un dev de Argentina que le encanta meterse en el backend, crear apps y hacer que todo corra rápido y seguro. Cuando no estoy programando, probablemente estoy configurando servidores, analizando paquetes de red o escribiendo sobre la tech que estoy aprendiendo."
+    "bio": "¡Hola! Soy Lázaro, un dev de Argentina que le encanta meterse en el backend, crear apps y hacer que todo corra rápido y seguro. Cuando no estoy programando, probablemente estoy configurando servidores, analizando paquetes de red o escribiendo sobre la tech que estoy aprendiendo.",
+    "cv": "Ver CV"
   },
   "cv": {
     "preview": "Ver CV",
     "download": "Descargar",
     "close": "Cerrar"
+  },
+  "about": {
+    "title": "Sobre mí",
+    "para_one": "Me enfoco en diseñar arquitecturas escalables, optimizar el flujo de datos y asegurar que los sistemas sean confiables en entornos reales. Mi trabajo abarca frontend, backend y DevOps. Desde crear experiencias interactivas con Next.js hasta desplegar aplicaciones en contenedores usando AWS y Docker.",
+    "para_two": "Actualmente curso la Tecnicatura en Redes Informáticas y finalizo un Diplomado en Administración de Servidores Linux con orientación a Ciberseguridad, combinando el desarrollo de software con una comprensión profunda de los sistemas."
   }
 }
