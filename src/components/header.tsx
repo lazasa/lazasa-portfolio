@@ -29,8 +29,8 @@ export default function Header() {
               <Image
                 src="/images/me.png"
                 alt="Profile picture"
-                width={200}
-                height={200}
+                width={120}
+                height={120}
                 className="rounded-full border-4 border-violet-500 shadow-lg object-cover"
                 priority
               />
