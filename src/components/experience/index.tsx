@@ -12,7 +12,7 @@ export default function Experience() {
 
   return (
     <section className="mx-auto">
-      <h2 className="text-3xl text-violet font-bold mb-4">{t('title')}</h2>
+      <h3 className="mb-4">{t('title')}</h3>
 
       <div className="space-y-12">
         {experiences.map(experience => (

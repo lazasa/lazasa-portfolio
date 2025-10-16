@@ -28,7 +28,7 @@ export function ProjectCard({ project }: ProjectCardProps) {
 
   console.log(project.imageUrl)
   return (
-    <div className="bg-secondary/30 rounded-lg p-6 border border-border h-80 lg:h-64">
+    <div className="bg-secondary/30 rounded-lg p-6 border border-border min-h-80 lg:min-h-64">
       <div className="flex flex-col lg:flex-row gap-6 h-full">
         {/* Project Image */}
         <div className="flex-shrink-0">

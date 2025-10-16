@@ -97,3 +97,46 @@ footer {
 .social-links a:hover {
   color: #4A3427;
 }
+
+/* Header Elements Styling */
+h1 {
+  font-size: 2.25rem; /* text-4xl */
+  line-height: 2.5rem;
+  color: var(--color-violet);
+  font-weight: 700;
+}
+
+h2 {
+  font-size: 1.875rem; /* text-3xl */
+  line-height: 2.25rem;
+  color: var(--color-violet);
+  font-weight: 700;
+}
+
+h3 {
+  font-size: 1.5rem; /* text-2xl */
+  line-height: 2rem;
+  color: var(--color-violet);
+  font-weight: 700;
+}
+
+h4 {
+  font-size: 1.25rem; /* text-xl */
+  line-height: 1.75rem;
+  color: var(--color-violet);
+  font-weight: 700;
+}
+
+h5 {
+  font-size: 1.125rem; /* text-lg */
+  line-height: 1.75rem;
+  color: var(--color-text);
+  font-weight: 600;
+}
+
+h6 {
+  font-size: 1rem; /* text-base */
+  line-height: 1.5rem;
+  color: var(--color-text);
+  font-weight: 600;
+}

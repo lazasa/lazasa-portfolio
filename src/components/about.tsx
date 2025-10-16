@@ -9,7 +9,7 @@ export default function About() {
     <section className="mx-auto">
       {/* About Title */}
       <div className="mb-8 text-left">
-        <h2 className="text-3xl text-violet font-bold mb-4">{t('title')}</h2>
+        <h3 className="text-3xl text-violet font-bold mb-4">{t('title')}</h3>
       </div>
 
       {/* About Content */}

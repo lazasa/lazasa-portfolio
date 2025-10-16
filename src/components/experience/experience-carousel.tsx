@@ -43,11 +43,11 @@ export function ExperienceCarousel({ experience }: ExperienceCarouselProps) {
         {/* Previous Button */}
         <button
           onClick={prevProject}
-          className="flex items-center justify-center cursor-pointer w-10 h-10 rounded-full bg-secondary/50 border border-border hover:bg-hover transition-colors duration-200"
+          className="flex items-center justify-center cursor-pointer w-8 h-8 rounded-full bg-secondary/50 border border-border hover:bg-hover transition-colors duration-200"
           aria-label="Previous project"
         >
           <svg
-            className="w-5 h-5 text-text"
+            className="w-4 h-4 text-text"
             fill="none"
             stroke="currentColor"
             viewBox="0 0 24 24"
@@ -80,11 +80,11 @@ export function ExperienceCarousel({ experience }: ExperienceCarouselProps) {
         {/* Next Button */}
         <button
           onClick={nextProject}
-          className="flex items-center cursor-pointer justify-center w-10 h-10 rounded-full bg-secondary/50 border border-border hover:bg-hover transition-colors duration-200"
+          className="flex items-center cursor-pointer justify-center w-8 h-8 rounded-full bg-secondary/50 border border-border hover:bg-hover transition-colors duration-200"
           aria-label="Next project"
         >
           <svg
-            className="w-5 h-5 text-text"
+            className="w-4 h-4 text-text"
             fill="none"
             stroke="currentColor"
             viewBox="0 0 24 24"
