@@ -15,7 +15,7 @@ export default async function HomePage({
   const { locale } = resolvedParams
 
   return (
-    <main className="flex flex-col gap-[4rem]">
+    <main className="flex flex-col gap-[4rem] pb-20">
       <Header />
       <About />
       <LastPost locale={locale} />
