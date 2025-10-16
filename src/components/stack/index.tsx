@@ -119,11 +119,11 @@ export default function Stack() {
               transform: 'translate(-50%, -100%)'
             }}
           >
-            <div className="bg-primary border border-border rounded-lg shadow-custom p-3 max-w-4xl">
+            <div className="bg-primary border border-border rounded-[0.75rem] shadow-custom p-1 max-w-4xl">
               {/* Display all certificates side by side */}
-              <div className="flex gap-3 items-start">
+              <div className="flex gap-1 items-start justify-center flex-wrap">
                 {hoverState.item.imageUrls.map((imageUrl, index) => (
-                  <div key={index} className="flex-shrink-0">
+                  <div key={index} className="">
                     <Image
                       src={imageUrl}
                       alt={`${hoverState.item!.name} ${index + 1}`}
