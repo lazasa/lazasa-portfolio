@@ -2,8 +2,8 @@
   "header": {
     "title": "lazasa",
     "subtitle": "Lázaro Sánchez",
-    "description": "Desarrollador Full-Stack con un corazón linuxero y pasión por sistemas limpios y seguros.",
-    "bio": "¡Hola! Soy Lázaro, un dev de Argentina que le encanta meterse en el backend, crear apps y hacer que todo corra rápido y seguro. Cuando no estoy programando, probablemente estoy configurando servidores, analizando paquetes de red o escribiendo sobre la tech que estoy aprendiendo.",
+    "description": "Desarrollador Full-Stack con .",
+    "bio": "Soy Lázaro, un dev de Argentina. Me gusta meterme en el backend, crear apps y hacer que todo funcione (al menos). Si no estoy programando, probablemente estoy configurando servidores, analizando paquetes de red o escribiendo algo.",
     "cv": "Ver CV"
   },
   "cv": {
@@ -13,15 +13,21 @@
   },
   "about": {
     "title": "Sobre mí",
-    "para_one": "Me enfoco en diseñar arquitecturas escalables, optimizar el flujo de datos y asegurar que los sistemas sean confiables en entornos reales. Mi trabajo abarca frontend, backend y DevOps. Desde crear experiencias interactivas con Next.js hasta desplegar aplicaciones en contenedores usando AWS y Docker.",
-    "para_two": "Actualmente curso la Tecnicatura en Redes Informáticas y finalizo un Diplomado en Administración de Servidores Linux con orientación a Ciberseguridad, combinando el desarrollo de software con una comprensión profunda de los sistemas."
+    "para_one": "Me enfoco en diseñar arquitecturas escalables, optimizar el flujo de datos y asegurar que los sistemas sean confiables en entornos reales. Mi trabajo abarca frontend, backend y DevOps. Desde crear experiencias interactivas con Next.js hasta desplegar aplicaciones en contenedores usando AWS y Docker. Curso la Tecnicatura en Redes Informáticas y finalizo un Diplomado en Administración de Servidores Linux con orientación a Ciberseguridad."
   },
   "experience": {
     "title": "Clientes y proyectos",
     "present": "Presente",
     "viewProject": "Ver Proyecto",
     "of": "de",
-    "projects": "proyectos"
+    "projects": "proyectos",
+    "project_descriptions": {
+      "plotr": "Desarrollé visualizaciones de datos geoespaciales y APIs backend para una plataforma de analítica empresarial. Integré Mapbox, Martin Tile Server y AWS para renderizado dinámico de mapas y optimicé consultas espaciales PostgreSQL para visualización de datos de alto rendimiento.",
+      "dimmo": "Contribuí al backend de Dimmo y diseño de API, mejorando los flujos de datos y la experiencia del desarrollador a través de capas de servicios estructuradas y mejor diseño de endpoints.",
+      "cleatus": "Lideré el desarrollo backend y diseño de base de datos para Cleatus durante una migración completa del sistema de Django a una arquitectura moderna. Construí APIs, flujos de sesión de usuario y componentes de UI basados en datos que soportan análisis de contratos con IA.",
+      "farmavet": "Desarrollé una plataforma de e-commerce completa para distribución de medicina veterinaria en Argentina, enfocándome en UI/UX limpia, arquitectura de base de datos y desarrollo backend.",
+      "promo-site": "Entregué un sitio web promocional responsivo para Eyisha Zyer, gestionando diseño, despliegue y optimización SEO para asegurar primeras impresiones sólidas y rendimiento rápido."
+    }
   },
   "last_post": {
     "title": "Lee mi último post"

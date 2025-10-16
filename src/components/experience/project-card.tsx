@@ -55,7 +55,7 @@ export function ProjectCard({ project }: ProjectCardProps) {
             </div>
 
             <p className="text-paragraph-text mb-4 leading-relaxed">
-              {project.description}
+              {t(`project_descriptions.${project.id}`)}
             </p>
 
             {/* Technologies */}

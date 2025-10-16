@@ -1,7 +1,6 @@
 export interface Project {
   id: string
   title: string
-  description: string
   technologies: string[]
   imageUrl: string
   projectUrl?: string
@@ -32,7 +31,6 @@ export const experiences: Experience[] = [
         {
           "id": "plotr",
           "title": "Plotr – Geospatial Business Analytics Platform",
-          "description": "Developed geospatial data visualizations and backend APIs for a business analytics platform. Integrated Mapbox, Martin Tile Server, and AWS for dynamic map rendering and optimized PostgreSQL spatial queries for high-performance data visualization.",
           "technologies": ["MongoDB", "TypeScript", "Mapbox", "Martin Tile Server", "AWS", "PostgreSQL", "Nextjs"],
           "imageUrl": "https://res.cloudinary.com/ddhr4xgam/image/upload/v1760572654/4bdab1fb-a406-4fa0-b8b9-d3c4a452f510.png",
           "projectUrl": "https://www.plotr.com/",
@@ -42,7 +40,6 @@ export const experiences: Experience[] = [
         {
           "id": "dimmo",
           "title": "Dimmo – AI Demo Creation Platform",
-          "description": "Contributed to Dimmo’s backend and API design, improving data flows and enhancing developer experience through structured service layers and better endpoint design.",
           "technologies": ["Nextjs", "Strapi Headless CMS", "Docker", "Typescript"],
           "projectUrl": "https://www.dimmo.ai/",
           "imageUrl": "https://res.cloudinary.com/ddhr4xgam/image/upload/v1760572682/c43d53a1-3d60-4bc4-9b56-b0fbbe24ab37.png",
@@ -62,7 +59,6 @@ export const experiences: Experience[] = [
         {
           "id": "cleatus",
           "title": "Cleatus – AI Government Contracting Tool",
-          "description": "Led backend development and database design for Cleatus during a full system migration from Django to a modern architecture. Built APIs, user session flows, and data-driven UI components supporting AI-powered contract analysis.",
           "technologies": ["Next.js", "MySQL", "Planetscale", "TypeScript", "Firebase", "Django", "Python"],
           "imageUrl": "https://res.cloudinary.com/ddhr4xgam/image/upload/v1760572679/7d57db3f-8657-47a5-a719-39924d78e558.png",
           "projectUrl": "https://www.cleat.ai/",
@@ -81,7 +77,6 @@ export const experiences: Experience[] = [
         {
           "id": "farmavet",
           "title": "Farmavet – E-commerce for Veterinary Products",
-          "description": "Developed a complete e-commerce platform for veterinary medicine distribution across Argentina, focusing on clean UI/UX, database architecture, and backend development.",
           "technologies": ["Nextjs", "Supabase", "PostgreSQL", "Tailwind", "Resend"],
           "imageUrl": "https://res.cloudinary.com/ddhr4xgam/image/upload/v1760573416/baaf91a0-2cde-4944-a207-09b7d943ef19.png",
           "githubUrl": "https://github.com/lazasa/farmavet",
@@ -91,7 +86,6 @@ export const experiences: Experience[] = [
         {
           "id": "promo-site",
           "title": "Promotional Website",
-          "description": "Delivered a responsive promotional website for Eyisha Zyer, managing design, deployment, and SEO optimization to ensure strong first impressions and fast performance.",
           "technologies": ["TailwindCSS"],
           "imageUrl": "https://res.cloudinary.com/ddhr4xgam/image/upload/v1760592295/2e078755-64de-405c-b30f-1eccc0f39763.png",
           "projectUrl": "https://eyishazyer.netlify.app/",

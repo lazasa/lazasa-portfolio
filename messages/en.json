@@ -12,16 +12,22 @@
     "close": "Close"
   },
   "about": {
-    "title": "About me",
-    "para_one": "I focus on designing scalable architectures, optimizing data flow, and ensuring systems stay reliable under real-world conditions. My work spans frontend, backend, and DevOps. From crafting interactive experiences with Next.js to deploying containerized apps on AWS and Docker.",
-    "para_two": "I’m currently pursuing an Associate Degree in Computer Networking and finishing a Diploma in Linux Server Administration with a focus on Cybersecurity, blending software development with deep system understanding."
+    "title": "Me",
+    "para_one": "I focus on designing scalable architectures, optimizing data flows, and making sure systems are reliable in real-world settings. My work spans frontend, backend, and DevOps from building interactive experiences with Next.js to deploying containerized apps using AWS and Docker. I’m studying Network Administration and wrapping up a Diploma in Linux Server Administration with a cybersecurity focus, blending what I love."
   },
   "experience": {
     "title": "Clients and Projects",
     "present": "Present",
     "viewProject": "View Project",
     "of": "of",
-    "projects": "projects"
+    "projects": "projects",
+    "project_descriptions": {
+      "plotr": "Developed geospatial data visualizations and backend APIs for a business analytics platform. Integrated Mapbox, Martin Tile Server, and AWS for dynamic map rendering and optimized PostgreSQL spatial queries for high-performance data visualization.",
+      "dimmo": "Contributed to Dimmo's backend and API design, improving data flows and enhancing developer experience through structured service layers and better endpoint design.",
+      "cleatus": "Led backend development and database design for Cleatus during a full system migration from Django to a modern architecture. Built APIs, user session flows, and data-driven UI components supporting AI-powered contract analysis.",
+      "farmavet": "Developed a complete e-commerce platform for veterinary medicine distribution across Argentina, focusing on clean UI/UX, database architecture, and backend development.",
+      "promo-site": "Delivered a responsive promotional website for Eyisha Zyer, managing design, deployment, and SEO optimization to ensure strong first impressions and fast performance."
+    }
   },
   "last_post": {
     "title": "Read my last post"
