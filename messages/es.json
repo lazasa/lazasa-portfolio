@@ -34,6 +34,19 @@
   "testimonials": {
     "title": "Testimonios"
   },
+  "stack": {
+    "title": "Stack y Certificaciones",
+    "sections": {
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "databases": "Bases de Datos",
+      "cloud_devops": "Cloud y DevOps",
+      "geospatial": "Geoespacial",
+      "system_networking": "Sistemas y Redes",
+      "tooling_workflow": "Herramientas y Flujo",
+      "learning": "Aprendiendo Actualmente"
+    }
+  },
   "last_post": {
     "title": "Lee mi último post"
   }
