@@ -175,6 +175,24 @@ h6 {
   }
 }
 
+/* Testimonials Carousel Animation */
+@keyframes scrollTestimonials {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.animate-scroll-testimonials {
+  animation: scrollTestimonials 40s linear infinite;
+}
+
+.animate-scroll-testimonials:hover {
+  animation-play-state: paused;
+}
+
 .curtain-reveal {
   animation: curtainReveal 0.6s ease-out forwards;
 }

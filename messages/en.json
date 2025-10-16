@@ -16,7 +16,7 @@
     "para_one": "I focus on designing scalable architectures, optimizing data flows, and making sure systems are reliable in real-world settings. My work spans frontend, backend, and DevOps from building interactive experiences with Next.js to deploying containerized apps using AWS and Docker. I’m studying Network Administration and wrapping up a Diploma in Linux Server Administration with a cybersecurity focus, blending what I love."
   },
   "experience": {
-    "title": "Clients and Projects",
+    "title": "Projects and recommendations",
     "present": "Present",
     "viewProject": "View Project",
     "of": "of",
@@ -30,6 +30,9 @@
       "farmavet": "Developed a complete e-commerce platform for veterinary medicine distribution across Argentina, focusing on clean UI/UX, database architecture, and backend development.",
       "promo-site": "Delivered a responsive promotional website for Eyisha Zyer, managing design, deployment, and SEO optimization to ensure strong first impressions and fast performance."
     }
+  },
+  "testimonials": {
+    "title": "Testimonials"
   },
   "last_post": {
     "title": "Read my last post"

@@ -16,7 +16,7 @@
     "para_one": "Me enfoco en diseñar arquitecturas escalables, optimizar el flujo de datos y asegurar que los sistemas sean confiables en entornos reales. Mi trabajo abarca frontend, backend y DevOps. Desde crear experiencias interactivas con Next.js hasta desplegar aplicaciones en contenedores usando AWS y Docker. Curso la Tecnicatura en Redes Informáticas y finalizo un Diplomado en Administración de Servidores Linux con orientación a Ciberseguridad."
   },
   "experience": {
-    "title": "Clientes y proyectos",
+    "title": "Proyectos y recomendaciones",
     "present": "Presente",
     "viewProject": "Ver Proyecto",
     "of": "de",
@@ -30,6 +30,9 @@
       "farmavet": "Desarrollé una plataforma de e-commerce completa para distribución de medicina veterinaria en Argentina, enfocándome en UI/UX limpia, arquitectura de base de datos y desarrollo backend.",
       "promo-site": "Entregué un sitio web promocional responsivo para Eyisha Zyer, gestionando diseño, despliegue y optimización SEO para asegurar primeras impresiones sólidas y rendimiento rápido."
     }
+  },
+  "testimonials": {
+    "title": "Testimonios"
   },
   "last_post": {
     "title": "Lee mi último post"
