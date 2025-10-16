@@ -56,7 +56,7 @@ export const STACK_DATA: StackData = {
     { name: "Git", imageUrls: ["https://res.cloudinary.com/ddhr4xgam/image/upload/v1760650956/certs/fbec4c89-4ed1-4a1f-b1d9-e442618b22e9.png"] },
     { name: "GitHub", imageUrls: ["https://res.cloudinary.com/ddhr4xgam/image/upload/v1760650956/certs/fbec4c89-4ed1-4a1f-b1d9-e442618b22e9.png"] },
     { name: "Gitlab" },
-    { name: "Scrum" },
+    { name: "Scrum", imageUrls: ["https://res.cloudinary.com/ddhr4xgam/image/upload/v1760650961/certs/8acf52eb-7d43-4764-980f-f7a49b87c02f.png"] },
   ],
   learning: [
     { name: "Linux Administration" },
