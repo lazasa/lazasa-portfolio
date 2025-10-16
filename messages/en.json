@@ -16,6 +16,13 @@
     "para_one": "I focus on designing scalable architectures, optimizing data flow, and ensuring systems stay reliable under real-world conditions. My work spans frontend, backend, and DevOps. From crafting interactive experiences with Next.js to deploying containerized apps on AWS and Docker.",
     "para_two": "I’m currently pursuing an Associate Degree in Computer Networking and finishing a Diploma in Linux Server Administration with a focus on Cybersecurity, blending software development with deep system understanding."
   },
+  "experience": {
+    "title": "Experience & Projects",
+    "present": "Present",
+    "viewProject": "View Project",
+    "of": "of",
+    "projects": "projects"
+  },
   "last_post": {
     "title": "Read my last post"
   }

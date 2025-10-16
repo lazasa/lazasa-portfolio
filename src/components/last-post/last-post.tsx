@@ -19,7 +19,7 @@ export default function LastPost({
   return (
     <div>
       <h2 className="text-3xl text-violet font-bold mb-4">{t('title')}</h2>
-      <a href={post.link}>
+      <a href={post.link} target="_blank">
         <article className="p-4 pb-6 my-4 rounded-md hover:shadow-lg transition-shadow duration-200 border-violet border-b-[1px] relative">
           <h4 className="text-xl font-bold text-violet mb-2">{post.title}</h4>
           <p className="opacity-80 text-base">{post.description}</p>

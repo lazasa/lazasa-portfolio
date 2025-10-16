@@ -1,5 +1,6 @@
 import Header from '@/components/header'
 import About from '@/components/about'
+import Experience from '@/components/experience'
 import LastPost from '@/components/last-post'
 
 export const dynamic = 'force-dynamic'
@@ -17,6 +18,7 @@ export default async function HomePage({
       <Header />
       <About />
       <LastPost locale={locale} />
+      <Experience />
     </main>
   )
 }
