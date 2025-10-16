@@ -21,6 +21,8 @@
     "viewProject": "View Project",
     "of": "of",
     "projects": "projects",
+    "seeMore": "More",
+    "showLess": "Less",
     "project_descriptions": {
       "plotr": "Developed geospatial data visualizations and backend APIs for a business analytics platform. Integrated Mapbox, Martin Tile Server, and AWS for dynamic map rendering and optimized PostgreSQL spatial queries for high-performance data visualization.",
       "dimmo": "Contributed to Dimmo's backend and API design, improving data flows and enhancing developer experience through structured service layers and better endpoint design.",

@@ -26,10 +26,9 @@ export function ProjectCard({ project }: ProjectCardProps) {
     }
   }
 
-  console.log(project.imageUrl)
   return (
     <div className="bg-secondary/30 rounded-lg p-6 border border-border min-h-80 lg:min-h-64">
-      <div className="flex flex-col lg:flex-row gap-6 h-full">
+      <div className="flex flex-col lg:flex-row gap-6">
         {/* Project Image */}
         <div className="flex-shrink-0">
           <div className="relative w-full lg:w-48 h-32 lg:h-32 rounded-lg overflow-hidden bg-secondary">
@@ -48,7 +47,7 @@ export function ProjectCard({ project }: ProjectCardProps) {
         <div className="flex-1 flex flex-col justify-between">
           <div className="flex-1">
             <div className="flex flex-col sm:flex-row sm:items-start sm:justify-between gap-2 mb-3">
-              <h4 className="text-xl font-bold text-text">{project.title}</h4>
+              <h5 className="font-bold text-text">{project.title}</h5>
               <div className="text-sm text-sub-text">
                 {project.startDate} {project.endDate && `- ${project.endDate}`}
               </div>

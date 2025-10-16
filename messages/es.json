@@ -21,6 +21,8 @@
     "viewProject": "Ver Proyecto",
     "of": "de",
     "projects": "proyectos",
+    "seeMore": "Más",
+    "showLess": "Menos",
     "project_descriptions": {
       "plotr": "Desarrollé visualizaciones de datos geoespaciales y APIs backend para una plataforma de analítica empresarial. Integré Mapbox, Martin Tile Server y AWS para renderizado dinámico de mapas y optimicé consultas espaciales PostgreSQL para visualización de datos de alto rendimiento.",
       "dimmo": "Contribuí al backend de Dimmo y diseño de API, mejorando los flujos de datos y la experiencia del desarrollador a través de capas de servicios estructuradas y mejor diseño de endpoints.",
